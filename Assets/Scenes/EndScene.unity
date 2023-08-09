@@ -269,9 +269,9 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: "\uBE14\uB85C\uADF8 : https://chickenunity.tistory.com/\n\uAE43\uD5C8\uBE0C
-    : https://github.com/eohalim\n\uC7A5\uC810 : \uCD08\uBCF4\uB77C \uAC00\uB974\uCCD0\uC8FC\uAE30
-    \uC88B\uC2B5\uB2C8\uB2E4.\n\uD611\uC5C5 \uC2A4\uD0C0\uC77C : \uB124!\uB124! \uD558\uB2E4\uAC00
-    \uC9C8\uBB38\uD569\uB2C8\uB2E4.\n"
+    : https://github.com/eohalim\n\uC7A5\uC810 : \uD300\uC6D0\uB4E4\uC744 \uB9E4\uC6B0
+    \uC88B\uC544\uD569\uB2C8\uB2E4.\n\uD611\uC5C5 \uC2A4\uD0C0\uC77C : \uB124!\uB124!
+    \uD558\uB2E4\uAC00 \uC9C8\uBB38\uD569\uB2C8\uB2E4.\n"
 --- !u!222 &108576212
 CanvasRenderer:
   m_ObjectHideFlags: 0
